@@ -1,2 +1,14 @@
 
 /emails/
+__pycache__/tests.cpython-39.pyc
+.idea/.name
+.idea/email-parser.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.vscode/settings.json
+__pycache__/main.cpython-39.pyc
+.idea/.DS_Store
+.DS_Store
+.idea/workspace.xml
